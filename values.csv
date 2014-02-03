@@ -1,0 +1,662 @@
+0113,Leeds,7
+0114,Sheffield,7
+0115,Nottingham,7
+0116,Leicester,7
+0117,Bristol,7
+0118,Reading,7
+01200,Clitheroe,6
+01202,Bournemouth,6
+01204,Bolton,6
+01205,Boston,6
+01206,Colchester,6
+01207,Consett,6
+01208,Bodmin,6
+01209,Redruth,6
+0121,Birmingham,7
+01223,Cambridge,6
+01224,Aberdeen,6
+01225,Bath,6
+01226,Barnsley,6
+01227,Canterbury,6
+01228,Carlisle,6
+01229,Barrow in Furness and Millom,6
+01233,Ashford,6
+01234,Bedford,6
+01235,Abingdon,6
+01236,Coatbridge,6
+01237,Bideford,6
+01239,Cardigan,6
+01241,Arbroath,6
+01242,Cheltenham,6
+01243,Chichester,6
+01244,Chester,6
+01245,Chelmsford,6
+01246,Chesterfield,6
+01248,Bangor,6
+01249,Chippenham,6
+01250,Blairgowrie,6
+01252,Aldershot,6
+01253,Blackpool,6
+01254,Blackburn,6
+01255,Clacton on Sea,6
+01256,Basingstoke,6
+01257,Coppull,6
+01258,Blandford Forum,6
+01259,Alloa,6
+01260,Congleton,6
+01261,Banff,6
+01262,Bridlington,6
+01263,Cromer,6
+01264,Andover,6
+01267,Carmarthen,6
+01268,Basildon,6
+01269,Ammanford,6
+01270,Crewe,6
+01271,Barnstaple,6
+01273,Brighton,6
+01274,Bradford,6
+01275,Clevedon,6
+01276,Camberley,6
+01277,Brentwood,6
+01278,Bridgwater,6
+01279,Bishop's Stortford,6
+01280,Buckingham,6
+01282,Burnley,6
+01283,Burton upon Trent,6
+01284,Bury St Edmunds,6
+01285,Cirencester,6
+01286,Caernarfon,6
+01287,Guisborough,6
+01288,Bude,6
+01289,Berwick upon Tweed,6
+01290,Cumnock,6
+01291,Chepstow,6
+01292,Ayr,6
+01293,Crawley,6
+01294,Ardrossan,6
+01295,Banbury,6
+01296,Aylesbury,6
+01297,Axminster,6
+01298,Buxton,6
+01299,Bewdley,6
+01300,Cerne Abbas,6
+01301,Arrochar,6
+01302,Doncaster,6
+01303,Folkestone,6
+01304,Dover,6
+01305,Dorchester,6
+01306,Dorking,6
+01307,Forfar,6
+01308,Bridport,6
+01309,Forres,6
+0131,Edinburgh,7
+01320,Fort Augustus,6
+01322,Dartford,6
+01323,Eastbourne,6
+01324,Falkirk,6
+01325,Darlington,6
+01326,Falmouth,6
+01327,Daventry,6
+01328,Fakenham,6
+01329,Fareham,6
+01330,Banchory,6
+01332,Derby,6
+01333,Anstruther,6
+01334,St Andrew's,6
+01335,Ashbourne,6
+01337,Ladybank,6
+01339,Aboyne and Ballater,6
+01340,Craigellachie,6
+01341,Barmouth,6
+01342,East Grinstead,6
+01343,Elgin,6
+01344,Bracknell,6
+01346,Fraserburgh,6
+01347,Easingwold,6
+01348,Fishguard,6
+01349,Dingwall,6
+01350,Dunkeld,6
+01352,Mold,6
+01353,Ely,6
+01354,Chatteris,6
+01355,East Kilbride,6
+01356,Brechin,6
+01357,Strathaven,6
+01358,Ellon,6
+01359,Pakenham,6
+01360,Killearn,6
+01361,Duns,6
+01362,Dereham,6
+01363,Crediton,6
+01364,Ashburton,6
+01366,Downham Market,6
+01367,Faringdon,6
+01368,Dunbar,6
+01369,Dunoon,6
+01371,Great Dunmow,6
+01372,Esher,6
+01373,Frome,6
+01375,Grays,6
+01376,Braintree,6
+01377,Driffield,6
+01379,Diss,6
+01380,Devizes,6
+01381,Fortrose,6
+01382,Dundee,6
+01383,Dunfermline,6
+01384,Dudley,6
+01386,Evesham,6
+01387,Dumfries,6
+013873,Langholm,5
+01388,Bishop Auckland and Stanhope,6
+01389,Dumbarton,6
+01392,Exeter,6
+01394,Felixstowe,6
+01395,Budleigh Salterton,6
+01397,Fort William,6
+01398,Dulverton,6
+01400,Honington,6
+01403,Horsham,6
+01404,Honiton,6
+01405,Goole,6
+01406,Holbeach,6
+01407,Holyhead,6
+01408,Golspie,6
+01409,Holsworthy,6
+0141,Glasgow,7
+01420,Alton,6
+01422,Halifax,6
+01423,Harrogate and Boroughbridge,6
+01424,Hastings,6
+01425,Ringwood,6
+01427,Gainsborough,6
+01428,Haslemere,6
+01429,Hartlepool,6
+01430,Market Weighton and North Cave,8
+01431,Helmsdale,6
+01432,Hereford,6
+01433,Hathersage,6
+01434,|Bellingham, Haltwhistle and Hexham|,6
+01435,Heathfield,6
+01436,Helensburgh,6
+01437,Haverfordwest and Clynderwen,6
+01438,Stevenage,6
+01439,Helmsley,6
+01440,Haverhill,6
+01442,Hemel Hempstead,6
+01443,Pontypridd,6
+01444,Haywards Heath,6
+01445,Gairloch,6
+01446,Barry,6
+01449,Stowmarket,6
+01450,Hawick,6
+01451,Stow-on-the-Wold,6
+01452,Gloucester,6
+01453,Dursley,6
+01454,Chipping Sodbury,6
+01455,Hinckley,6
+01456,Glenurquhart,6
+01457,Glossop,6
+01458,Glastonbury,6
+01460,Chard,6
+01461,Gretna,6
+01462,Hitchin,6
+01463,Inverness,6
+01464,Insch,6
+01465,Girvan,6
+01466,Huntly,6
+01467,Inverurie,6
+01469,Killingholme,6
+01470,Edinbane,6
+01471,Broadford,6
+01472,Grimsby,6
+01473,Ipswich,6
+01474,Gravesend,6
+01475,Greenock,6
+01476,Grantham,6
+01477,Holmes Chapel,6
+01478,Portree,6
+01479,Grantown on Spey,6
+01480,Huntingdon,6
+01481,Guernsey,6
+01482,Hull,6
+01483,Guildford,6
+01484,Huddersfield,6
+01485,Hunstanton,6
+01487,Warboys,6
+01488,Hungerford,6
+01489,Bishops Waltham,6
+01490,Corwen,6
+01491,Henley on Thames,6
+01492,Colwyn Bay,6
+01493,Great Yarmouth,6
+01494,High Wycombe,6
+01495,Pontypool,6
+01496,Islay and Jura,6
+01497,Hay on Wye,6
+01499,Inveraray,6
+01501,Harthill,6
+01502,Lowestoft,6
+01503,Looe,6
+01505,Johnstone,6
+01506,Bathgate,6
+01507,|Alford, Louth and Spilsby|,6
+01508,Brooke,6
+01509,Loughborough,6
+0151,Liverpool,7
+01520,Lochcarron,6
+01522,Lincoln,6
+01524,Lancaster,6
+015242,Hornby,5
+01525,Leighton Buzzard,8
+01526,Martin,6
+01527,Redditch,6
+01528,Laggan,6
+01529,Sleaford,6
+01530,Coalville,6
+01531,Ledbury,6
+01534,Jersey,6
+01535,Keighley,6
+01536,Kettering,6
+01538,Ipstones,6
+01539,Kendal,6
+015394,Hawkshead,5
+015395,Grange over Sands,5
+015396,Sedbergh,5
+01540,Kingussie,6
+01542,Keith,6
+01543,Cannock,6
+01544,Kington,6
+01545,Llanarth,6
+01546,Lochgilphead,6
+01547,Knighton,6
+01548,Kingsbridge,6
+01549,Lairg,6
+01550,Llandovery,6
+01553,King's Lynn,6
+01554,Llanelli,6
+01555,Lanark,6
+01556,Castle Douglas,6
+01557,Kirkcudbright,6
+01558,Llandeilo,6
+01559,Llandysul,6
+01560,Moscow,6
+01561,Laurencekirk,6
+01562,Kidderminster,6
+01563,Kilmarnock,6
+01564,Lapworth,6
+01565,Knutsford,6
+01566,Launceston,6
+01567,Killin,6
+01568,Leominster,6
+01569,Stonehaven,6
+01570,Lampeter,6
+01571,Lochinver,6
+01572,Oakham,6
+01573,Kelso,6
+01575,Kirriemuir,6
+01576,Lockerbie,6
+01577,Kinross,6
+01578,Lauder,6
+01579,Liskeard,6
+01580,Cranbrook,6
+01581,New Luce,6
+01582,Luton,6
+01583,Carradale,6
+01584,Ludlow,6
+01586,Campbeltown,6
+01588,Bishops Castle,6
+01590,Lymington,6
+01591,Llanwrtyd Wells,6
+01592,Kirkcaldy,6
+01593,Lybster,6
+01594,Lydney,6
+01595,Lerwick,6
+01597,Llandrindod Wells,6
+01598,Lynton,6
+01599,Kyle of Lochalsh,6
+01600,Monmouth,6
+01603,Norwich,6
+01604,Northampton,6
+01606,Northwich,6
+01608,Chipping Norton,6
+01609,Northallerton,6
+0161,Manchester,7
+01620,North Berwick,6
+01621,Maldon,6
+01622,Maidstone,6
+01623,Mansfield,6
+01624,Isle of Man,6
+01625,Macclesfield,6
+01626,Newton Abbot,6
+01628,Maidenhead,6
+01629,Matlock,6
+01630,Market Drayton,6
+01631,Oban,6
+01632,Fictional UK,6
+01633,Newport,6
+01634,Medway,6
+01635,Newbury,6
+01636,Newark,6
+01637,Newquay,6
+01638,Newmarket,6
+01639,Neath,6
+01641,Strathy,6
+01642,Middlesbrough,6
+01643,Minehead,6
+01644,New Galloway,6
+01646,Milford Haven,6
+01647,Moretonhampstead,6
+01650,Cemmaes Road,6
+01651,Oldmeldrum,6
+01652,Brigg,6
+01653,Malton,6
+01654,Machynlleth,6
+01655,Maybole,6
+01656,Bridgend,6
+01659,Sanquhar,6
+01661,Prudhoe,6
+01663,New Mills,6
+01664,Melton Mowbray,6
+01665,Alnwick,6
+01666,Malmesbury,6
+01667,Nairn,6
+01668,Bamburgh,6
+01669,Rothbury,6
+01670,Morpeth,6
+01671,Newton Stewart,6
+01672,Marlborough,6
+01673,Market Rasen,6
+01674,Montrose,6
+01675,Coleshill,6
+01676,Meriden,6
+01677,Bedale,6
+01678,Bala,6
+01680,Craignure,6
+01681,Fionnphort,6
+01683,Moffat,6
+01684,Malvern,6
+01685,Merthyr Tydfil,6
+01686,Newtown and Llanidloes,6
+01687,Mallaig,6
+01688,Tobermory,6
+01689,Orpington,6
+01690,Betws y Coed numbers,6
+01691,Oswestry,6
+01692,North Walsham,6
+01694,Church Stretton,6
+01695,Skelmersdale,6
+016977 and 01697,Brampton,5
+016973,Wigton,5
+016974,Raughton Head,5
+016977 and 01697,Brampton,5
+01698,Motherwell,6
+01700,Rothesay,6
+01702,Southend on Sea,6
+01704,Southport,6
+01706,Rochdale,6
+01707,Welwyn Garden City,6
+01708,Romford,6
+01709,Rotherham,6
+01720,Isles of Scilly,6
+01721,Peebles,6
+01722,Salisbury,6
+01723,Scarborough,6
+01724,Scunthorpe,6
+01725,Rockbourne,6
+01726,St Austell,6
+01727,St Albans,6
+01728,Saxmundham,6
+01729,Settle,6
+01730,Petersfield,6
+01732,Sevenoaks,6
+01733,Peterborough,6
+01736,Penzance,6
+01737,Redhill,6
+01738,Perth,6
+01740,Sedgefield,6
+01743,Shrewsbury,6
+01744,St Helens,6
+01745,Rhyl,6
+01746,Bridgnorth,6
+01747,Shaftesbury,6
+01748,Richmond,6
+01749,Shepton Mallet,6
+01750,Selkirk,6
+01751,Pickering,6
+01752,Plymouth,6
+01753,Slough,6
+01754,Skegness,6
+01756,Skipton,6
+01757,Selby,6
+01758,Pwllheli,6
+01759,Pocklington,6
+01760,Swaffham,6
+01761,Temple Cloud,6
+01763,Royston,6
+01764,Crieff,6
+01765,Ripon,6
+01766,Porthmadog,6
+01767,Sandy,6
+01768,Penrith,6
+017683,Appleby,5
+017684,Pooley Bridge,5
+017687,Keswick,5
+01769,South Molton,6
+01770,Isle of Arran,6
+01771,Maud,6
+01772,Preston,6
+01773,Ripley,6
+01775,Spalding,6
+01776,Stranraer,6
+01777,Retford,6
+01778,Bourne,6
+01779,Peterhead,6
+01780,Stamford,6
+01782,Stoke on Trent,6
+01784,Staines,6
+01785,Stafford,6
+01786,Stirling,6
+01787,Sudbury,6
+01788,Rugby,6
+01789,Stratford upon Avon,6
+01790,Spilsby,6
+01792,Swansea,6
+01793,Swindon,6
+01794,Romsey,6
+01795,Sittingbourne,6
+01796,Pitlochry,6
+01797,Rye,6
+01798,Pulborough,6
+01799,Saffron Walden,6
+01803,Torquay,6
+01805,Torrington,6
+01806,Sullom Voe,6
+01807,Ballindalloch,6
+01808,Tomatin,6
+01809,Tomdoun,6
+01821,Kinrossie,6
+01822,Tavistock,6
+01823,Taunton,6
+01824,Ruthin,6
+01825,Uckfield,6
+01827,Tamworth,6
+01828,Coupar Angus,6
+01829,Tarporley,6
+01830,Kirkwhelpington,6
+01832,Clopton,6
+01833,Barnard Castle,6
+01834,Narberth,6
+01835,St Boswells,6
+01837,Okehampton,6
+01838,Dalmally,6
+01840,Camelford,6
+01841,Padstow,6
+01842,Thetford,6
+01843,Thanet,6
+01844,Thame,6
+01845,Thirsk,6
+01847,Thurso and Tongue,6
+01848,Thornhill,6
+01851,Lewis and Great Bernera,6
+01852,Kimelford,6
+01854,Ullapool,6
+01855,Ballachulish,6
+01856,Orkney,6
+01857,Sanday,6
+01858,Market Harborough,6
+01859,Harris,6
+01862,Tain,6
+01863,Ardgay,6
+01864,Abington,6
+01865,Oxford,6
+01866,Kilchrenan,6
+01871,Barra and Vatersay,6
+01872,Truro,6
+01873,Abergavenny,6
+01874,Brecon,6
+01875,Tranent,6
+01876,North Uist,6
+01877,Callander,6
+01878,South Uist,6
+01879,Scarinish,6
+01880,Tarbert,6
+01882,Kinloch Rannoch,6
+01883,Caterham,6
+01884,Tiverton,6
+01885,Bromyard,6
+01886,Knightwick,6
+01887,Aberfeldy,6
+01888,Turriff,6
+01889,Rugeley,6
+01890,Ayton and Coldstream,6
+01892,Tunbridge Wells,6
+01895,Uxbridge,6
+01896,Galashiels,6
+01899,Biggar,6
+01900,Workington,6
+01902,Wolverhampton,6
+01903,Worthing,6
+01904,York,6
+01905,Worcester,6
+01908,Milton Keynes,6
+01909,Worksop,6
+0191,Tyne & Wear and Durham,7
+01920,Ware,6
+01922,Walsall,6
+01923,Watford,6
+01924,Wakefield,6
+01925,Warrington,6
+01926,Warwick,6
+01928,Runcorn,6
+01929,Wareham,6
+01931,Shap,6
+01932,Weybridge,6
+01933,Wellingborough,6
+01934,Weston-Super-Mare,6
+01935,Yeovil,6
+01937,Wetherby,6
+01938,Welshpool,6
+01939,Wem,6
+01942,Wigan,6
+01943,Guiseley,6
+01944,West Heslerton,6
+01945,Wisbech,6
+01946,Whitehaven,6
+019467,Gosforth,5
+01947,Whitby,8
+01948,Whitchurch,6
+01949,Whatton,6
+01950,Sandwick,6
+01951,Colonsay,6
+01952,Telford,6
+01953,Wymondham,6
+01954,Madingley,6
+01955,Wick,6
+01957,Mid Yell,6
+01959,Westerham,6
+01962,Winchester,6
+01963,Wincanton,6
+01964,Hornsea and Patrington,6
+01967,Strontian,6
+01968,Penicuik,6
+01969,Leyburn,6
+01970,Aberystwyth,6
+01971,Scourie,6
+01972,Glenborrodale,6
+01974,Llanon,6
+01975,Alford and Strathdon,6
+01977,Pontefract,6
+01978,Wrexham,6
+01980,Amesbury,6
+01981,Wormbridge,6
+01982,Builth Wells,6
+01983,Isle of Wight,6
+01984,Watchet,6
+01985,Warminster,6
+01986,Bungay,6
+01987,Ebbsfleet,6
+01988,Wigtown,6
+01989,Ross on Wye,6
+01992,Lea Valley,6
+01993,Witney,6
+01994,St Clears,6
+01995,Garstang,6
+01997,Strathpeffer,6
+020,London,8
+023,Southampton & Portsmouth,8
+024,Coventry,8
+028,Northern Ireland,8
+029,Cardiff,8
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+03 Numbers,UK Wide Numbers,
+05 Numbers,Corporate and VOIP use,
+05 Numbers,Corporate and VOIP use,
+05 Numbers,Corporate and VOIP use,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+07 Numbers,'Find me anywhere' numbers,
+0800 Numbers,Free,
+0808 Numbers,Free,
+0843 Numbers,Special rate numbers,
+0844 Numbers,Special rate numbers,
+0845 Numbers,Special rate numbers,
+0870 Numbers,Special rate numbers,
+0871 Numbers,Special rate numbers,
+0872 Numbers,Special rate numbers,
+0873 Numbers,Special rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
+09 Numbers,Premium rate numbers,
